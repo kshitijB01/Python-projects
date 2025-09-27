@@ -43,7 +43,18 @@ Each project will be placed in its own folder, with:
 - Source code files (`.py`)  
 To run a project, clone this repo and navigate to the desired project folder:
 
-```bash
-git clone https://github.com/kshitijB01/python-projects.git
-cd python-projects/<project-folder>
-python <filename>.py
+
+---
+
+## Author
+
+**👨‍💻 Name:** Kshitij Bokde  
+**🌐 GitHub:** [kshitijB01](https://github.com/kshitijB01)  
+**📧 Email:** [kshitijliladharbokde@gmail.com](mailto:kshitijliladharbokde@gmail.com)  
+**📍 Location:** India  
+**💡 Interests:** Python, Ethical Hacking, Cybersecurity, DSA
+
+---
+
+This repository is a work in progress and will be updated regularly as new projects are added.
+
