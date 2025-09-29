@@ -15,10 +15,10 @@ This is a basic Python calculator that performs four fundamental operations: **A
 
 ## 🖼️ Output Screenshots
 
-### ➤ Example 1: Valid Operation  
+### ➤ Example 1:   
 ![Output 1](Output1.png)
 
-### ➤ Example 2: Invalid or Undefined Operation  
+### ➤ Example 2: 
 ![Output 2](Output2.png)
 
 ---
