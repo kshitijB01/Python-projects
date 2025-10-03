@@ -21,7 +21,7 @@ It uses the current year dynamically, so the results are always accurate.
 
 ## 🖼️ Output Screenshot
 
-![Output](Output.png)
+![Output](output.png)
 
 ---
 
